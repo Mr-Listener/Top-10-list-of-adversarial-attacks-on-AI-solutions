@@ -35,14 +35,25 @@ Slowdown attack implies performing various types of DoS attacks [12], as some ML
 ### References
 
 [1]: Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., Fergus, R.: Intriguing properties of neural networks (2013). https://arxiv.org/abs/1312.6199
+
 [2]: Schwarzschild, A., Goldblum, M., Gupta, A., Dickerson, J.P., Goldstein, T.: Just how toxic is data poisoning? A unified benchmark for backdoor and data poisoning attacks. In: International Conference on Machine Learning. PMLR (2021)
+
 [3]: Fredrikson, M., Jha, S., Ristenpart, T.: Model inversion attacks that exploit confidence information and basic countermeasures. In: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (2015)
+
 [4]: Floridi, L., Chiriatti, M.: GPT-3: Its nature, scope, limits, and consequences. Minds Mach. 30(4), 681–694 (2020)
+
 [5]: Gu, T., Dolan-Gavitt, B., Garg, S.: BadNets: Identifying vulnerabilities in the machine learning model supply chain (2017). https://arxiv.org/abs/1708.06733
+
 [7]: Oh, S.J., Schiele, B., Fritz, M.: Towards reverse-engineering black-box neural networks. In: Explainable AI: Interpreting, Explaining and Visualizing Deep Learning. Springer, Berlin (2019)
+
 [8]: Shokri, R., Stronati, M., Song, C., Shmatikov, V.: Membership inference attacks against machine learning models. In: 2017 IEEE Symposium on Security and Privacy (SP). IEEE, Piscataway (2017)
+
 [9]: Liu, Y., Ma, S., Aafer, Y., Lee, W.C., Zhai, J., Wang, W., Zhang, X.: Trojaning attack on neural networks (2017)
+
 [10]: Brewster, T.: Fraudsters Cloned Company Director’s Voice In $35 Million Bank Heist, Police Find (2021). https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bankfraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=1456cb187559
+
 [11]: Gong, N.Z., Liu, B.: You are who you know and how you behave: attribute inference attacks via users’ social friends and behaviors. In: 25th {USENIX} Security Symposium (2016)
+
 [12]: Hong, S., Kaya, Y., Modoranu, I.V., Dumitra¸s, T.: A Panda? No, It’s a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference (2020). https://arxiv.org/abs/2010.02432
+
 
