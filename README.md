@@ -1,4 +1,4 @@
-# Top 10 list of adversarial attacks on AI solutions
+# list of Top 10 adversarial attacks on AI solutions
 
 ## 1. Evasion attacks
 Evasion attacks involve inputs for MLsec that result in an incorrect output and cause models to make false predictions or behave in an unexpected manner [1]. As an example from the real world, we can take an AI-driver malware detection engine, which can be bypassed using an adversarial attack by changing binary in such a way that it will not be recognized as a malware.
